@@ -1,0 +1,10 @@
+# Ignore JavaScript plugins
+/recognition/static/plugins/
+# Ignore node_modules
+/node_modules/
+
+# Ignore build files
+/build/
+
+# Ignore backup files
+*.bak
